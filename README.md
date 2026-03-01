@@ -22,7 +22,7 @@ python main.py
 
 | Роль | Логин | Пароль |
 |------|-------|--------|
-| admin | admin | admin123 |
+| Администратор | admin | admin123 |
 | Менеджер | manager | manager123 |
 | Покупатель | client1 | client123 |
 
